@@ -1,0 +1,1 @@
+(function(){var t='<img style="display:block;margin-top:-1px;" class="crpb" width="1" height="1" border="0" alt="" src="https://sp.analytics.yahoo.com/spp.pl?a=10000&.yp=10200455&he={INSERT_MACRO_HERE}&hph={INSERT_MACRO_HERE}">'; if(!!document.body.insertAdjacentHTML) document.body.insertAdjacentHTML('beforeend',t); else document.body.innerHTML+=t;})();
